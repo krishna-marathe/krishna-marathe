@@ -93,10 +93,7 @@ const currentFocus = {
 
 ---
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=krishna-marathe&show_icons=true&theme=tokyonight" />
----
 
 ## 🤝 Let's Connect
 
