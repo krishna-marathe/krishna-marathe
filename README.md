@@ -19,15 +19,63 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,mysql" />
+</p>
+
+---
+
+### ⚛️ Frameworks / Libraries
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Seaborn-Data%20Viz-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino" />
+</p>
+
+---
+
+### 🧠 Core Concepts
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OOP-Concepts-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-Database-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-Networking-purple?style=for-the-badge" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CI/CD-Fundamentals-red?style=for-the-badge" />
 </p>
 
 ---
